@@ -3,3 +3,4 @@ nawfall resolusi
 -membuat platform
 -membuat forum diskusi
 -membuat marketplace
+-kolaborasi dengan expert
